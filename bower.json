@@ -1,0 +1,26 @@
+{
+  "name": "bani-haji-makhruf-wonosobo",
+  "version": "0.0.0",
+  "homepage": "https://github.com/banihajimakhruf/banihajimakhruf.github.io",
+  "authors": [
+    "Abiel Zulio M <abielzm@gmail.com>"
+  ],
+  "description": "Halaman asli mengenai Keluarga Besar Haji Ma'ruf Wonosobo.",
+  "main": "index.html",
+  "keywords": [
+    "fx",
+    "fx"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "twbs/bootstrap#3.3.4",
+    "bootstrap-material-design": "FezVrasta/bootstrap-material-design#0.3.0"
+  }
+}
