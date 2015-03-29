@@ -1,6 +1,6 @@
 {
   "name": "bani-haji-makhruf-wonosobo",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/banihajimakhruf/banihajimakhruf.github.io",
   "authors": [
     "Abiel Zulio M <abielzm@gmail.com>"
@@ -8,8 +8,11 @@
   "description": "Halaman asli mengenai Keluarga Besar Haji Ma'ruf Wonosobo.",
   "main": "index.html",
   "keywords": [
-    "fx",
-    "fx"
+    "bani",
+    "haji",
+    "ma'ruf",
+    "wonosobo",
+    "bani haji ma'ruf wonosobo"
   ],
   "license": "MIT",
   "ignore": [
