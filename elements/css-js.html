@@ -3,10 +3,12 @@
 
     <!-- call bootstrap-material-design css -->
     <link href="../bower_components/bootstrap-material-design/dist/css/material.min.css" rel="stylesheet">
+    <link href="../bower_components/bootstrap-material-design/dist/css/material-fullpalette.css" rel="stylesheet">
+    <link href="../bower_components/bootstrap-material-design/dist/css/roboto.min.css" rel="stylesheet" >
     <link href="../bower_components/bootstrap-material-design/dist/css/ripples.min.css" rel="stylesheet">
 
     <!-- call jquery javascript -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="../bower_components/jquery/dist/jquery.min.js"></script>
 
     <!-- call bootstrap javascript -->
     <script src="../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
@@ -21,5 +23,7 @@
 
     <!-- init bootstrap-material-design -->
     <script type="text/javascript">
-      $.material.init()
+        $(document).ready(function() {
+            $.material.init();
+        });
     </script>
