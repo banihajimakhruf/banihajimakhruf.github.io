@@ -1,0 +1,9 @@
+# site configuration
+title: "Bani Haji Ma'ruf Wonosobo"
+description: "Web halaman asli mengenai Keluarga Besar Haji Ma'ruf Wonosobo."
+logo: "favicon.ico"
+baseurl: ""
+url: "http://localhost"
+
+# jekyll configuration
+markdown: "kramdown"
